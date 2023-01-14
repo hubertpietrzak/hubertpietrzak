@@ -1,6 +1,6 @@
 ### Hello, I am Hubert 👋
 
-I am a beginner Java developer with experience in finance and tax law. I am open to new experiences, always and with greatpleasure I test myself in new areas and take on more and more difficult challenges. I am looking for a junior position where I will use my knowledge and gain professional experience. 
+I am a beginner Java developer with experience in finance and tax law. I am open to new experiences, always and with great pleasure I test myself in new areas and take on more and more difficult challenges. I am looking for a junior position where I will use my knowledge and gain professional experience. 
 
 ### 🛠 &nbsp;Tech Stack
 
