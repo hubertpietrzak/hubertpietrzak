@@ -1,6 +1,10 @@
 ### Hello, I am Hubert 👋
 
-I am a beginner Java developer with experience in finance and tax law. I am open to new experiences, always and with great pleasure I test myself in new areas and take on more and more difficult challenges. 
+I'm a Java Developer with professional experience in software development, complemented by a strong foundation in finance and tax law. Before transitioning to IT, I spent several years working in tax advisory and earned both a Bachelor’s and Master’s degree in Finance and Accounting, as well as completing postgraduate studies in Tax Law.
+
+This unique combination of technical expertise and domain knowledge enables me to bring a comprehensive perspective to software development, particularly in areas like financial systems, data analysis, and compliance-focused applications. I am passionate about crafting clean and efficient code, solving complex challenges, and continuously expanding my skill set.
+
+I thrive in environments that encourage learning and innovation. Tackling new challenges, exploring cutting-edge technologies, and contributing to impactful projects are what drive me in my career. I am excited to collaborate on diverse and ambitious initiatives, where I can grow as a Java Developer while delivering meaningful results.
 
 ### 🛠 &nbsp;Tech Stack
 
